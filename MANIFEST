@@ -2,8 +2,10 @@ Changes
 lib/BSD/Socket/Splice.pm
 Makefile.PL
 MANIFEST
+META.yml			Module meta-data (added by MakeMaker)
 ppport.h
 README
+SIGNATURE			Public-key signature (added by MakeMaker)
 Splice.xs
 t/benchmark.t
 t/BSD-Socket-Splice.t
@@ -12,5 +14,3 @@ t/getsplice.t
 t/setsplice.t
 t/SO_SPLICE.t
 t/splice.t
-META.yml                                 Module meta-data (added by MakeMaker)
-SIGNATURE                                Public-key signature (added by MakeMaker)
