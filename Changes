@@ -1,5 +1,7 @@
 Revision history for Perl extension BSD::Socket::Splice.
 
+0.06
+
 0.05 2013-01-16
     - After a maximum length splice, the OpenBSD kernel returns an
       error EFBIG now.  Adapt the tests to this behavior.
