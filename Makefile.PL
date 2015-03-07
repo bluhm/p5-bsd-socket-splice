@@ -16,4 +16,14 @@ WriteMakefile(
 	# Un-comment this if you add C files to link with later:
     # OBJECT            => '$(O_FILES)', # link all the C files too
     SIGN              => 1,
+    META_MERGE => {
+	'meta-spec' => { version => 2 },
+	resources => {
+	    repository => {
+		type => 'git',
+		url  => 'git://github.com/bluhm/p5-bsd-socket-splice.git',
+		web  => 'https://github.com/bluhm/p5-bsd-socket-splice',
+	    },
+	},
+    },
 );

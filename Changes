@@ -1,6 +1,7 @@
 Revision history for Perl extension BSD::Socket::Splice.
 
 0.06
+    - Add github repository p5-bsd-socket-splice.
 
 0.05 2013-01-16
     - After a maximum length splice, the OpenBSD kernel returns an
