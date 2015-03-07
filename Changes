@@ -1,6 +1,6 @@
 Revision history for Perl extension BSD::Socket::Splice.
 
-0.06
+0.06 2015-03-07
     - Add github repository p5-bsd-socket-splice.
 
 0.05 2013-01-16
