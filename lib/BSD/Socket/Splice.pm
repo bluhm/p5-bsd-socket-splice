@@ -115,6 +115,10 @@ sosplice(9)
 
 Alexander Bluhm E<lt>bluhm@cpan.orgE<gt>
 
+=head1 REPOSITORY
+
+L<https://github.com/bluhm/p5-bsd-socket-splice>
+
 =head1 COPYRIGHT AND LICENSE
 
 Copyright (C) 2010-2013 by Alexander Bluhm
