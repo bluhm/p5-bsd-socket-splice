@@ -3,10 +3,8 @@ lib/BSD/Socket/Splice.pm
 LICENSE
 Makefile.PL
 MANIFEST
-META.yml			Module meta-data (added by MakeMaker)
 ppport.h
 README
-SIGNATURE			Public-key signature (added by MakeMaker)
 Splice.xs
 t/benchmark.t
 t/BSD-Socket-Splice.t
